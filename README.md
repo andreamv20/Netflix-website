@@ -6,6 +6,10 @@ Clean and modern Netflix UI design
 Responsive layout (mobile & desktop)
 Profile with avatar and user info
 Account settings with plan and security details
+
+
+
+
 🧰 Technologies Used
 HTML5 – For page structure
 CSS3 – For styling and layout
